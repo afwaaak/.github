@@ -9,6 +9,10 @@ Interactive media tools for projection, games, kiosks, and spatial experiences.
 ![Electron](https://img.shields.io/badge/Electron-47848F?logo=electron&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?logo=unrealengine&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-E87D0D?logo=blender&logoColor=white)
+![Cinema 4D](https://img.shields.io/badge/Cinema_4D-011A6A?logo=cinema4d&logoColor=white)
+![ComfyUI](https://img.shields.io/badge/ComfyUI-222222)
 ![Projection](https://img.shields.io/badge/Projection_Mapping-111111)
 
 </div>
